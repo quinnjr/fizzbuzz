@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "It's fizzbuzz!",
+  "main": "fizzbuzz.ts",
+  "scripts": {
+    "test": "echo 'No Testing'",
+    "start": "ts-node fizzbuzz.ts"
+  },
+  "author": "Joseph R. Quinn <423821+quinnjr@users.noreply.github.com>",
+  "license": "Unlicense",
+  "dependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  }
+}
